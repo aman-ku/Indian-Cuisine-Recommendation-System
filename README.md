@@ -14,7 +14,7 @@ For making of this project I have used flask, javascript, bootstrap, css and HTM
 4) At last run the app.py file and get the web app at "http://127.0.0.1:5000/"
 
 ## Demo gif video
-
+![Indian-Cuisine-Recommendation-System](https://github.com/aman-ku/Indian-Cuisine-Recommendation-System/blob/2da5af3c78b102a8b8ccd1ac164676e344d45a14/IFC.gif)
 
 
 ## Below are some screen shot of our web app
