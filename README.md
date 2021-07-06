@@ -18,5 +18,7 @@ For making of this project I have used flask, javascript, bootstrap, css and HTM
 
 
 ## Below are some screen shot of our web app
-
-
+![Indian-Cuisine-Recommendation-System](https://github.com/aman-ku/Indian-Cuisine-Recommendation-System/blob/ff41ba524af71df11eedfa4d5f5b36bdabe15050/images/Screenshot%20from%202021-07-07%2000-01-55.png)
+![Indian-Cuisine-Recommendation-System](https://github.com/aman-ku/Indian-Cuisine-Recommendation-System/blob/ff41ba524af71df11eedfa4d5f5b36bdabe15050/images/Screenshot%20from%202021-07-07%2000-02-01.png)
+![Indian-Cuisine-Recommendation-System](https://github.com/aman-ku/Indian-Cuisine-Recommendation-System/blob/ff41ba524af71df11eedfa4d5f5b36bdabe15050/images/Screenshot%20from%202021-07-07%2000-02-29.png)
+![Indian-Cuisine-Recommendation-System](https://github.com/aman-ku/Indian-Cuisine-Recommendation-System/blob/ff41ba524af71df11eedfa4d5f5b36bdabe15050/images/Screenshot%20from%202021-07-07%2000-02-35.png)
